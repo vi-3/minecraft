@@ -1,0 +1,17 @@
+{
+	id: "d7808845-27f2-48f4-8fe5-908653ff6b6f"
+	type: "player"
+	player_name: "pulada"
+	ranks: {
+		d7808845-27f2-48f4-8fe5-908653ff6b6f: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "pulada"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF598A"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "273ff5f5-b683-36bd-b718-079733344214"
+	type: "player"
+	player_name: "LavaSpirit"
+	ranks: {
+		273ff5f5-b683-36bd-b718-079733344214: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "LavaSpirit"
+		"ftbteams:description": ""
+		"ftbteams:color": "#9959FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

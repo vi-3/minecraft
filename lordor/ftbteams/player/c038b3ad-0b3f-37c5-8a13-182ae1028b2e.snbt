@@ -1,0 +1,17 @@
+{
+	id: "c038b3ad-0b3f-37c5-8a13-182ae1028b2e"
+	type: "player"
+	player_name: "SENNA"
+	ranks: {
+		c038b3ad-0b3f-37c5-8a13-182ae1028b2e: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "SENNA"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF8B"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

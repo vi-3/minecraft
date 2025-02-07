@@ -1,0 +1,17 @@
+{
+	id: "6e0169c6-d657-3aed-bbd6-ce5acf568a3d"
+	type: "player"
+	player_name: "SMiiKi"
+	ranks: {
+		6e0169c6-d657-3aed-bbd6-ce5acf568a3d: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "SMiiKi"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF7B"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
