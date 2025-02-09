@@ -1,0 +1,58 @@
+[
+  {
+    "dimension": {
+      "f_135804_": "twilightforest",
+      "f_135805_": "twilight_forest"
+    },
+    "id": "eae37e0f-9b6a-456e-a6a6-6c74315c51a5",
+    "ownerID": "273ff5f5-b683-36bd-b718-079733344214",
+    "pos": {
+      "f_123285_": 90,
+      "f_123286_": -3,
+      "f_123289_": -776
+    },
+    "type": 0
+  },
+  {
+    "dimension": {
+      "f_135804_": "minecraft",
+      "f_135805_": "the_nether"
+    },
+    "id": "c2c552fb-619b-4a0f-8025-85baac64690a",
+    "ownerID": "c038b3ad-0b3f-37c5-8a13-182ae1028b2e",
+    "pos": {
+      "f_123285_": -366,
+      "f_123286_": 33,
+      "f_123289_": 95
+    },
+    "type": 0
+  },
+  {
+    "dimension": {
+      "f_135804_": "minecraft",
+      "f_135805_": "the_nether"
+    },
+    "id": "010c2d71-ff7b-461c-a10c-787fef623f69",
+    "ownerID": "c038b3ad-0b3f-37c5-8a13-182ae1028b2e",
+    "pos": {
+      "f_123285_": 41,
+      "f_123286_": 30,
+      "f_123289_": -62
+    },
+    "type": 0
+  },
+  {
+    "dimension": {
+      "f_135804_": "minecraft",
+      "f_135805_": "overworld"
+    },
+    "id": "5fd643f7-c9ed-4df6-b3f8-5a54c15494c0",
+    "ownerID": "c038b3ad-0b3f-37c5-8a13-182ae1028b2e",
+    "pos": {
+      "f_123285_": -2455,
+      "f_123286_": 72,
+      "f_123289_": -1589
+    },
+    "type": 0
+  }
+]
